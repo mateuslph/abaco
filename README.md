@@ -1,7 +1,7 @@
 # Software Abaco
 
-> Tem a funcionalidade de fazer cálculos, guardar valores na memória em até 6 slots. A funcionalidade de "Cálculos Anteriores" (Linha de Tempo) ainda está por ser desenvolvida.
-> Não existe persistência de dados, mas talvez pode ser adicionado.
+> Desenvolvido na IDE Delphi, tem a funcionalidade de fazer cálculos, e guardar valores na memória em até 6 slots. A funcionalidade de "Cálculos Anteriores"
+> (Linha de Tempo) ainda está por ser desenvolvida. Não existe persistência de dados, mas talvez pode ser adicionado.
 
 ### Imagens do Software:
 
